@@ -4,3 +4,18 @@
 Amazon S3 (Simple Storage Service) is a simple web service interface that allows huge amount of data storage
 and retrival from anywhere from the internet.Its provides developers highly scalable, reliable, fast and low cost data storage 
 infrastructure.
+
+
+s3
+universal name with region
+http 200 is upload successfull
+version id using versioning,
+metadata data storing
+-tiered storage types avaialable 
+-life cycle managment
+-versioning
+-encryption
+-MFA delete(multi factor authentication)
+-ACL
+--cross region replication
+--s3 transfer acceleration
