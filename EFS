@@ -1,0 +1,3 @@
+Create EFS Filesystem has default in AWS console
+while selecting the security groups in EFS,
+create instance attach efs volumes in a differenct availibility zones(AZs)
