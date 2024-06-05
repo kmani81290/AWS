@@ -1,0 +1,10 @@
+what is iam?
+aws identity and access management (iam) enables you to manage access to aws services and resources securely. Using iam you can create and manage aws users and groups and use permissions to aalow and deny theior access to aws resources.
+iam is fature of your aws account offered at no additional charge. you will be charged only for use of other aws services by your users.
+
+users
+2 types of access managment console access or programmatic access
+managment access username and password
+programmatic mean user can interact with the aws services using through access key id and secret access key
+policy can attached to the user to restrict the user actions in the aws account
+a user can be addedd to a group or can be an idenpendent user of the aws account.
