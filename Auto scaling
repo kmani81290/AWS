@@ -2,3 +2,10 @@ Auto scaling groups
 ```````````````````
 
 Automatic up and down cpu, 
+
+Steps to create ASG in AWS
+`````````````````````````````` 
+Step1: Go to EC2 > Auto Scaling Group > create ASG > create template name > select instance type > select security group > create launch template 
+come bact ASG page to select template after refresh select newlyh created
+
+stucked in load balancer selection
